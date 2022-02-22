@@ -1,0 +1,18 @@
+spawn1 generate harvesters
+bring energy back to spawn1
+spawn1 generate upgraders
+check if enough harvesters and upgraders
+when enough energy build upgrader
+upgrade room
+check if enough harvesters and upgraders
+spawn1 generate builders
+have builders make roads and extensions
+have harvesters fill extensions
+have builders make walls
+spawn 1 generate repairers
+repair roads and walls
+make sure walls are not fully repaired
+have builders make towers
+fill towers with energy
+have towers search for NPC
+shoot at npc in range

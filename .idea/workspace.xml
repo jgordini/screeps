@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27d300e5-7fb1-4b2d-b560-30c6fe8bca4d" name="Changes" comment="harvest and upgrade" />
+    <list default="true" id="27d300e5-7fb1-4b2d-b560-30c6fe8bca4d" name="Changes" comment="harvest and upgrade">
+      <change afterPath="$PROJECT_DIR$/scripts/psudocode.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +58,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643661227939</updated>
-      <workItem from="1643661231768" duration="3189000" />
+      <workItem from="1643661231768" duration="4221000" />
+      <workItem from="1643814808934" duration="1232000" />
+      <workItem from="1643987565193" duration="599000" />
+      <workItem from="1644265841062" duration="1120000" />
+      <workItem from="1644333503097" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="screeps ide updates">
       <created>1643661353184</created>
