@@ -1,4 +1,4 @@
-var Harvester = require('role.harvester');
+var Harvester = require1('role.harvester');
 var Upgrader = require('role.upgrader');
 interface CreepMemory { [name: string]: any };
 
