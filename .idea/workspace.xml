@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27d300e5-7fb1-4b2d-b560-30c6fe8bca4d" name="Changes" comment="harvest and upgrade">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="27d300e5-7fb1-4b2d-b560-30c6fe8bca4d" name="Changes" comment="ts compiled">
+      <change afterPath="$PROJECT_DIR$/scripts/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/linux_intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +17,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/scripts/main.ts" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="24TixpJhzWD4G8bMsiGAN4MrhH3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -44,11 +52,19 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/scripts/main.js" working-dir="$PROJECT_DIR$/scripts">
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="js.build_tools.grunt">
       <node-interpreter value="project" />
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.main.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -63,6 +79,11 @@
       <workItem from="1643987565193" duration="599000" />
       <workItem from="1644265841062" duration="1120000" />
       <workItem from="1644333503097" duration="4000" />
+      <workItem from="1645553240921" duration="453000" />
+      <workItem from="1646068002366" duration="214000" />
+      <workItem from="1646068234900" duration="1713000" />
+      <workItem from="1646760763723" duration="1239000" />
+      <workItem from="1646924200852" duration="600000" />
     </task>
     <task id="LOCAL-00001" summary="screeps ide updates">
       <created>1643661353184</created>
@@ -92,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643664313370</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ts compiled">
+      <created>1645553545898</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645553545898</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +151,28 @@
     <MESSAGE value="screeps gruntfile" />
     <MESSAGE value="add upgrader" />
     <MESSAGE value="harvest and upgrade" />
-    <option name="LAST_COMMIT_MESSAGE" value="harvest and upgrade" />
+    <MESSAGE value="ts compiled" />
+    <option name="LAST_COMMIT_MESSAGE" value="ts compiled" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/scripts/main.ts</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/scripts/main.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/scripts/main.ts</url>
+          <line>23</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
